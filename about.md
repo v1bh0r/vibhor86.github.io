@@ -4,8 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+### Artist. Dreamer. Programmer. Leader.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+A professional by nature and driven by passion.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I have created quality software products from scratch, maintained un-documented legacy code in a variety of programming languages and have also lead agile software development teams.
+
+I love making aggressive commitments and meet them all.
+
+Specialties: Software Architecture, Agile Project Management, Risk Management and Mentoring
+
+Find out more about me on my [Linkedin profile](http://in.linkedin.com/in/vibhormahajan)
