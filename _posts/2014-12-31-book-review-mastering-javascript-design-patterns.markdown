@@ -5,8 +5,6 @@ date:   2014-12-31 11:47:02
 categories: book javascript design-patterns
 ---
 
-# Book Review: Mastering JavaScript Design Patterns
-
 ![Image of Mastering JavaScript Design Patterns](https://www.packtpub.com/sites/default/files/7986OS_Mastering%20JavaScript%20Design%20Patterns.jpg)
 
 Coming from a background of coding in C++, Java and Ruby, the object oriented programming took time to wrap my head around when coding in Javascript. I've had an opportunity to create a large application using AngularJS and several smaller applications over a couple of years. Each left new curiosities in the process - How can I create a better interface? How can I abstract certain areas of my code and expose only a few? How can I protect the object attributes better? On my journey to satisfy these curiosities, [Mastering JavaScript Design Patterns](https://www.packtpub.com/application-development/mastering-javascript-design-patterns) has entered recently as a great teacher.
