@@ -206,6 +206,11 @@
 
 .post {
   padding: 30px;
+    @for $index from 1 through 6 {
+        h#{$index}{
+            font-weight: bold;
+        }
+    }
 }
 
 .post-list {
