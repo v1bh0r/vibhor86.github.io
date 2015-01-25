@@ -10,3 +10,6 @@ github_username:  vibhor86
 
 # Build settings
 markdown: kramdown
+
+# Serving
+port: 5000
