@@ -215,6 +215,9 @@
     > li {
         margin-bottom: $spacing-unit;
     }
+    .post-title {
+        margin-bottom: 0;
+    }
 }
 
 .muted, .post-meta {
