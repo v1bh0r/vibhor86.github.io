@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Paperclip - Swapping S3 with a drop-in replacement called nibbler.io"
-date:   2014-01-01 13:51:02
+date:   2015-01-01 13:51:02
 categories: paperclip aws s3 nibbler.io
 ---
 
