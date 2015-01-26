@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Expectation"
+title:  "Expectations"
 date:   2015-01-26 01:19:02
 categories: social-skills managing-expectations
 ---
