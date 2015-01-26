@@ -17,10 +17,8 @@ The economists Rakesh Sarin and Manel Baucells, in their book [Engineering Happi
 Raise expectations beyond reality's capacity to meet them, and misery follows. The reverse applies, too: you can make people happier, [studies suggest](http://www.carlsonschool.umn.edu/Assets/71769.pdf){:target="_blank"}, by delivering bad news, then withdrawing it.
 Hence the car salesman trick: lure the customer with a deal; reveal it doesn't apply to the car being considered; then have a word with your manager, who – hallelujah! – agrees to an exception. Relief triggers happiness, and a sale.
 
-Expectations comes in exhaustive forms and apply to so many areas of life and since they depends on the biggest variable which is us humans, you can go crazy trying to enumerate all the expectations.
+The hardest part of Expectation Management is understanding the expectations. They come in exhaustive forms and apply to so many areas of life and since they depends on the biggest variable which is us humans, you can go crazy trying to enumerate all the expectations.
 This article is for you software engineers. To set your expectations right *\*wink wink\**, we would keep the focus narrow to your projects and your career.
-
-The hardest part of Expectation Management is understanding the expectations.
 
 ## Culture and Stereotypes
 How is the culture like in your organization?
