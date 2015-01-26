@@ -56,7 +56,7 @@ Ask yourself if you can sustain the behavior in the long-term. If the answer is 
 
 The best services organizations have processes to raise tickets by urgency. Like one of our dev-ops team has two different email addresses - support@xyz.com for regular requests and emergency@xyz.com for urgent requests.
 
-You can use indirect ways of expressing that your are going out of the way owing to your good judgement of urgency like "The matter seems very urgent and required a prompt reply and I'm with you to help".
+You can use indirect ways of expressing that you are going out of the way owing to your good judgement of urgency like "The matter seems very urgent and required a prompt reply and I'm with you to help".
 
 ## Constant communication and reporting
 It is OK to cross-check unsaid assumptions with the expectations of the other person.
