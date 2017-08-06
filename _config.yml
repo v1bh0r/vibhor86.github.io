@@ -4,9 +4,9 @@ email: vibhor.mahajan@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Vibhor Mahajan's Blog
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://vibhor86.github.io" # the base hostname & protocol for your site
+url: "https://v1bh0r.github.io" # the base hostname & protocol for your site
 twitter_username: vibhor86
-github_username:  vibhor86
+github_username:  v1bh0r
 
 # Build settings
 markdown: kramdown
