@@ -8,6 +8,13 @@ url: "https://v1bh0r.github.io" # the base hostname & protocol for your site
 twitter_username: vibhor86
 github_username:  v1bh0r
 
+# Disqus
+---
+layout: default
+comments: true
+# other options
+---
+
 # Build settings
 markdown: kramdown
 
